@@ -2,6 +2,19 @@
 
 Fetch and parse table structure information from mysql.
 
+
+### Installation
+
+The recommended installation method is pip:
+```
+pip install git+git://github.com/faycheng/schema.git
+```
+
+Or, invoke install script from source code:
+```
+./manager.sh install
+```
+
 ### Usage
 
 ```
